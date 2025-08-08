@@ -1,2 +1,7 @@
 # ikraeylulgunes
-Kızım için
+
+İkra Eylül Güneş için basit bir web sitesi.
+
+## Çalıştırma
+
+`index.html` dosyasını tarayıcıda açın.
